@@ -1,11 +1,11 @@
-# Box office
+# Box Office App
 
 ## Overview
 
-A movie search app that consumes an external API to display data.
+- Part of Internshala React Js course.
 
-Stack:
+## Stack:
 
-- React
-- Styles with Styled Components
+- React Js
+- Sass
 
